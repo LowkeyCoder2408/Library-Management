@@ -11,8 +11,8 @@ Lecturer's name: Nguyen Thi Khanh Tien
 Language: [C++](https://vi.wikipedia.org/wiki/C++) <br>
 Version: [C++98]( <br>
 Some functions:
-+ Đăng nhập tài khoản : (admin, user)
-+ Quản lý Độc Giả : (thêm, sửa, xóa, tìm kiếm, gia hạn thẻ ĐG...)
-+ Quản lý Sách    : (thêm, sửa, xóa, tìm kiếm, báo mất sách,...)
-+ Mượn - Trả Sách : (Mượn, trả, tìm kiếm phiếu,...)
-+ Thống kê        : (các ĐG đang mượn sách, các ĐG trễ hạn trả sách,...)
++ Account login/logout : (administrators, readers)
++ Reader management    : (add, edit, delete, search, renew readers borrow-return ticket,...)
++ Document management  : (add, edit, delete, search, lost books report,...)
++ Borrow-return books  : (borrow, return, search tickets,...)
++ Statistical tables   : (readers who are borrowing books, readers who are late to return books,...)
