@@ -1,4 +1,4 @@
-# Library-management-project
+# Library management project
 + This project serves for the object-oriented programming project.
 + Use to simulate the process of borrowing and returning as well as other functions and services of the library.
 # Subject's information:
