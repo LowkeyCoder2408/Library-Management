@@ -10,7 +10,7 @@
 + [Hồ Chí Nhân](https://www.facebook.com/SevenCoder03) - Student code: 21H1120013 - Class: CN21CLCA - [HCMC University of Transport](https://www.facebook.com/TruongDHGiaothongvantaiTPHCM)
 # Project's information:
 Language: [C++](https://vi.wikipedia.org/wiki/C++) <br>
-Version: [C++98]( <br>
+Version: [C++98] <br>
 Some functions:
 + Account login/logout : (administrators, readers)
 + Reader management    : (add, edit, delete, search, renew readers borrow-return ticket,...)
