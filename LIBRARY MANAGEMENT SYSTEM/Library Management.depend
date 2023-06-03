@@ -1,0 +1,587 @@
+# depslib dependency file v1.0
+1671076444 source:d:\năm 2\lập trình hướng Đối tượng\project library management\library management\src\book.cpp
+	"BOOK.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+	<fstream>
+
+1671076444 d:\năm 2\lập trình hướng Đối tượng\project library management\library management\include\book.h
+	<iostream>
+	"DATE.h"
+
+1671076444 d:\năm 2\lập trình hướng Đối tượng\project library management\library management\include\date.h
+	<iostream>
+	<cstring>
+	<time.h>
+	<fstream>
+
+1671076444 d:\năm 2\lập trình hướng Đối tượng\project library management\library management\include\functionpublic.h
+	<conio.h>
+	<iostream>
+	<string.h>
+
+1671076567 source:d:\năm 2\lập trình hướng Đối tượng\project library management\library management\src\bookslist.cpp
+	"BOOKSLIST.h"
+	"BOOK.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+	<fstream>
+
+1671076444 d:\năm 2\lập trình hướng Đối tượng\project library management\library management\include\bookslist.h
+	"BOOK.h"
+	"DATE.h"
+	<iostream>
+	<vector>
+	<string.h>
+	<sstream>
+
+1671076444 source:d:\năm 2\lập trình hướng Đối tượng\project library management\library management\src\borrow_return.cpp
+	"BORROW_RETURN.h"
+
+1671076444 d:\năm 2\lập trình hướng Đối tượng\project library management\library management\include\borrow_return.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"READERSLIST.h"
+	"BOOKSLIST.h"
+	"DATE.h"
+	"FUNCTIONPUBLIC.h"
+	<fstream>
+
+1671076444 d:\năm 2\lập trình hướng Đối tượng\project library management\library management\include\readerslist.h
+	<iostream>
+	<vector>
+	"READER.h"
+	"STUDENT.h"
+	"TEACHER.h"
+	"FUNCTIONPUBLIC.h"
+	"ACCOUNTSLIST.h"
+	<sstream>
+	<string.h>
+
+1671076444 d:\năm 2\lập trình hướng Đối tượng\project library management\library management\include\reader.h
+	<iostream>
+	<cstring>
+	"DATE.h"
+	<vector>
+	<conio.h>
+
+1671076444 d:\năm 2\lập trình hướng Đối tượng\project library management\library management\include\student.h
+	"READER.h"
+	<vector>
+
+1671076444 d:\năm 2\lập trình hướng Đối tượng\project library management\library management\include\teacher.h
+	"READER.h"
+
+1671076753 source:d:\năm 2\lập trình hướng Đối tượng\project library management\library management\src\borrow_returnslist.cpp
+	"BORROW_RETURNSLIST.h"
+	<fstream>
+
+1671076444 d:\năm 2\lập trình hướng Đối tượng\project library management\library management\include\borrow_returnslist.h
+	<iostream>
+	"BORROW_RETURN.h"
+
+1671076444 source:d:\năm 2\lập trình hướng Đối tượng\project library management\library management\src\date.cpp
+	"DATE.h"
+	<iomanip>
+
+1671076444 source:d:\năm 2\lập trình hướng Đối tượng\project library management\library management\src\functionpublic.cpp
+	"FUNCTIONPUBLIC.h"
+
+1671076444 source:d:\năm 2\lập trình hướng Đối tượng\project library management\library management\src\reader.cpp
+	"READER.h"
+
+1671078317 source:d:\năm 2\lập trình hướng Đối tượng\project library management\library management\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<conio.h>
+	"BORROW_RETURNSLIST.h"
+	"ACCOUNTSLIST.h"
+	"ADMIN.h"
+	"USER.h"
+
+1669048276 d:\năm 2\lập trình hướng Đối tượng\project library management\library management\include\data.h
+	<fstream>
+
+1671076567 source:d:\năm 2\lập trình hướng Đối tượng\project library management\library management\src\readerslist.cpp
+	"READERSLIST.h"
+	<iomanip>
+
+1671076444 source:d:\năm 2\lập trình hướng Đối tượng\project library management\library management\src\student.cpp
+	"STUDENT.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+
+1671076444 source:d:\năm 2\lập trình hướng Đối tượng\project library management\library management\src\teacher.cpp
+	"TEACHER.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+
+1671076444 d:\năm 2\lập trình hướng Đối tượng\project library management\library management\include\accountslist.h
+	"ACCOUNT.h"
+	"ADMIN.h"
+	"USER.h"
+	<vector>
+
+1671076444 d:\năm 2\lập trình hướng Đối tượng\project library management\library management\include\account.h
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1671076444 d:\năm 2\lập trình hướng Đối tượng\project library management\library management\include\admin.h
+	"ACCOUNT.h"
+
+1671076444 d:\năm 2\lập trình hướng Đối tượng\project library management\library management\include\user.h
+	"ACCOUNT.h"
+
+1671076444 source:d:\năm 2\lập trình hướng Đối tượng\project library management\library management\src\account.cpp
+	"ACCOUNT.h"
+
+1671078340 source:d:\năm 2\lập trình hướng Đối tượng\project library management\library management\src\accountslist.cpp
+	"ACCOUNTSLIST.h"
+
+1671076444 source:d:\năm 2\lập trình hướng Đối tượng\project library management\library management\src\admin.cpp
+	"ADMIN.h"
+
+1671076444 source:d:\năm 2\lập trình hướng Đối tượng\project library management\library management\src\user.cpp
+	"USER.h"
+
+1671078317 source:d:\sophmore\lập trình hướng Đối tượng\project library management\library management\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<conio.h>
+	"BORROW_RETURNSLIST.h"
+	"ACCOUNTSLIST.h"
+	"ADMIN.h"
+	"USER.h"
+
+1671076444 d:\sophmore\lập trình hướng Đối tượng\project library management\library management\include\borrow_returnslist.h
+	<iostream>
+	"BORROW_RETURN.h"
+
+1671437623 d:\sophmore\lập trình hướng Đối tượng\project library management\library management\include\borrow_return.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"READERSLIST.h"
+	"BOOKSLIST.h"
+	"DATE.h"
+	"FUNCTIONPUBLIC.h"
+	<fstream>
+
+1671076444 d:\sophmore\lập trình hướng Đối tượng\project library management\library management\include\readerslist.h
+	<iostream>
+	<vector>
+	"READER.h"
+	"STUDENT.h"
+	"TEACHER.h"
+	"FUNCTIONPUBLIC.h"
+	"ACCOUNTSLIST.h"
+	<sstream>
+	<string.h>
+
+1671076444 d:\sophmore\lập trình hướng Đối tượng\project library management\library management\include\reader.h
+	<iostream>
+	<cstring>
+	"DATE.h"
+	<vector>
+	<conio.h>
+
+1671076444 d:\sophmore\lập trình hướng Đối tượng\project library management\library management\include\date.h
+	<iostream>
+	<cstring>
+	<time.h>
+	<fstream>
+
+1671076444 d:\sophmore\lập trình hướng Đối tượng\project library management\library management\include\student.h
+	"READER.h"
+	<vector>
+
+1671076444 d:\sophmore\lập trình hướng Đối tượng\project library management\library management\include\teacher.h
+	"READER.h"
+
+1671076444 d:\sophmore\lập trình hướng Đối tượng\project library management\library management\include\functionpublic.h
+	<conio.h>
+	<iostream>
+	<string.h>
+
+1671076444 d:\sophmore\lập trình hướng Đối tượng\project library management\library management\include\accountslist.h
+	"ACCOUNT.h"
+	"ADMIN.h"
+	"USER.h"
+	<vector>
+
+1671076444 d:\sophmore\lập trình hướng Đối tượng\project library management\library management\include\account.h
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1671076444 d:\sophmore\lập trình hướng Đối tượng\project library management\library management\include\admin.h
+	"ACCOUNT.h"
+
+1671076444 d:\sophmore\lập trình hướng Đối tượng\project library management\library management\include\user.h
+	"ACCOUNT.h"
+
+1671437723 d:\sophmore\lập trình hướng Đối tượng\project library management\library management\include\bookslist.h
+	"BOOK.h"
+	"DATE.h"
+	<iostream>
+	<vector>
+	<string.h>
+	<sstream>
+	"BORROW_RETURNSLIST.h"
+
+1671436842 d:\sophmore\lập trình hướng Đối tượng\project library management\library management\include\book.h
+	<iostream>
+	"DATE.h"
+
+1671076444 source:d:\sophmore\lập trình hướng Đối tượng\project library management\library management\src\account.cpp
+	"ACCOUNT.h"
+
+1671078340 source:d:\sophmore\lập trình hướng Đối tượng\project library management\library management\src\accountslist.cpp
+	"ACCOUNTSLIST.h"
+
+1671076444 source:d:\sophmore\lập trình hướng Đối tượng\project library management\library management\src\admin.cpp
+	"ADMIN.h"
+
+1671076444 source:d:\sophmore\lập trình hướng Đối tượng\project library management\library management\src\book.cpp
+	"BOOK.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+	<fstream>
+
+1671076567 source:d:\sophmore\lập trình hướng Đối tượng\project library management\library management\src\bookslist.cpp
+	"BOOKSLIST.h"
+	"BOOK.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+	<fstream>
+
+1671076444 source:d:\sophmore\lập trình hướng Đối tượng\project library management\library management\src\borrow_return.cpp
+	"BORROW_RETURN.h"
+
+1671076753 source:d:\sophmore\lập trình hướng Đối tượng\project library management\library management\src\borrow_returnslist.cpp
+	"BORROW_RETURNSLIST.h"
+	<fstream>
+
+1671076444 source:d:\sophmore\lập trình hướng Đối tượng\project library management\library management\src\date.cpp
+	"DATE.h"
+	<iomanip>
+
+1671076444 source:d:\sophmore\lập trình hướng Đối tượng\project library management\library management\src\functionpublic.cpp
+	"FUNCTIONPUBLIC.h"
+
+1671076444 source:d:\sophmore\lập trình hướng Đối tượng\project library management\library management\src\reader.cpp
+	"READER.h"
+
+1671078556 source:d:\sophmore\lập trình hướng Đối tượng\project library management\library management\src\readerslist.cpp
+	"READERSLIST.h"
+	<iomanip>
+
+1671076444 source:d:\sophmore\lập trình hướng Đối tượng\project library management\library management\src\student.cpp
+	"STUDENT.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+
+1671076444 source:d:\sophmore\lập trình hướng Đối tượng\project library management\library management\src\teacher.cpp
+	"TEACHER.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+
+1671076444 source:d:\sophmore\lập trình hướng Đối tượng\project library management\library management\src\user.cpp
+	"USER.h"
+
+1675869034 source:c:\users\admin\onedrive\máy tính\library-management-main\library management\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<conio.h>
+	"BORROW_RETURNSLIST.h"
+	"ACCOUNTSLIST.h"
+	"ADMIN.h"
+	"USER.h"
+
+1675869034 c:\users\admin\onedrive\máy tính\library-management-main\library management\include\borrow_returnslist.h
+	<iostream>
+	"BORROW_RETURN.h"
+
+1675869034 c:\users\admin\onedrive\máy tính\library-management-main\library management\include\borrow_return.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"READERSLIST.h"
+	"BOOKSLIST.h"
+	"DATE.h"
+	"FUNCTIONPUBLIC.h"
+	<fstream>
+
+1675869034 c:\users\admin\onedrive\máy tính\library-management-main\library management\include\readerslist.h
+	<iostream>
+	<vector>
+	"READER.h"
+	"STUDENT.h"
+	"TEACHER.h"
+	"FUNCTIONPUBLIC.h"
+	"ACCOUNTSLIST.h"
+	<sstream>
+	<string.h>
+
+1675869034 c:\users\admin\onedrive\máy tính\library-management-main\library management\include\reader.h
+	<iostream>
+	<cstring>
+	"DATE.h"
+	<vector>
+	<conio.h>
+
+1675869034 c:\users\admin\onedrive\máy tính\library-management-main\library management\include\date.h
+	<iostream>
+	<cstring>
+	<time.h>
+	<fstream>
+
+1675869034 c:\users\admin\onedrive\máy tính\library-management-main\library management\include\student.h
+	"READER.h"
+	<vector>
+
+1675869034 c:\users\admin\onedrive\máy tính\library-management-main\library management\include\teacher.h
+	"READER.h"
+
+1675869034 c:\users\admin\onedrive\máy tính\library-management-main\library management\include\functionpublic.h
+	<conio.h>
+	<iostream>
+	<string.h>
+
+1675869034 c:\users\admin\onedrive\máy tính\library-management-main\library management\include\accountslist.h
+	"ACCOUNT.h"
+	"ADMIN.h"
+	"USER.h"
+	<vector>
+
+1675869034 c:\users\admin\onedrive\máy tính\library-management-main\library management\include\account.h
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1675869034 c:\users\admin\onedrive\máy tính\library-management-main\library management\include\admin.h
+	"ACCOUNT.h"
+
+1675869034 c:\users\admin\onedrive\máy tính\library-management-main\library management\include\user.h
+	"ACCOUNT.h"
+
+1675869034 c:\users\admin\onedrive\máy tính\library-management-main\library management\include\bookslist.h
+	"BOOK.h"
+	"DATE.h"
+	<iostream>
+	<vector>
+	<string.h>
+	<sstream>
+	"BORROW_RETURNSLIST.h"
+
+1675869034 c:\users\admin\onedrive\máy tính\library-management-main\library management\include\book.h
+	<iostream>
+	"DATE.h"
+
+1675869034 source:c:\users\admin\onedrive\máy tính\library-management-main\library management\src\account.cpp
+	"ACCOUNT.h"
+
+1675869034 source:c:\users\admin\onedrive\máy tính\library-management-main\library management\src\accountslist.cpp
+	"ACCOUNTSLIST.h"
+
+1675869034 source:c:\users\admin\onedrive\máy tính\library-management-main\library management\src\admin.cpp
+	"ADMIN.h"
+
+1675869034 source:c:\users\admin\onedrive\máy tính\library-management-main\library management\src\book.cpp
+	"BOOK.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+	<fstream>
+
+1675869034 source:c:\users\admin\onedrive\máy tính\library-management-main\library management\src\bookslist.cpp
+	"BOOKSLIST.h"
+	"BOOK.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+	<fstream>
+
+1675869034 source:c:\users\admin\onedrive\máy tính\library-management-main\library management\src\borrow_return.cpp
+	"BORROW_RETURN.h"
+
+1675869034 source:c:\users\admin\onedrive\máy tính\library-management-main\library management\src\borrow_returnslist.cpp
+	"BORROW_RETURNSLIST.h"
+	<fstream>
+
+1675869034 source:c:\users\admin\onedrive\máy tính\library-management-main\library management\src\date.cpp
+	"DATE.h"
+	<iomanip>
+
+1675869034 source:c:\users\admin\onedrive\máy tính\library-management-main\library management\src\functionpublic.cpp
+	"FUNCTIONPUBLIC.h"
+
+1675869034 source:c:\users\admin\onedrive\máy tính\library-management-main\library management\src\reader.cpp
+	"READER.h"
+
+1675869034 source:c:\users\admin\onedrive\máy tính\library-management-main\library management\src\readerslist.cpp
+	"READERSLIST.h"
+	<iomanip>
+
+1675869034 source:c:\users\admin\onedrive\máy tính\library-management-main\library management\src\student.cpp
+	"STUDENT.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+
+1675869034 source:c:\users\admin\onedrive\máy tính\library-management-main\library management\src\teacher.cpp
+	"TEACHER.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+
+1675869034 source:c:\users\admin\onedrive\máy tính\library-management-main\library management\src\user.cpp
+	"USER.h"
+
+1675869034 source:d:\sophmore\semester 1\oop\project library management\library management\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<conio.h>
+	"BORROW_RETURNSLIST.h"
+	"ACCOUNTSLIST.h"
+	"ADMIN.h"
+	"USER.h"
+
+1675869034 d:\sophmore\semester 1\oop\project library management\library management\include\borrow_returnslist.h
+	<iostream>
+	"BORROW_RETURN.h"
+
+1675869034 d:\sophmore\semester 1\oop\project library management\library management\include\borrow_return.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"READERSLIST.h"
+	"BOOKSLIST.h"
+	"DATE.h"
+	"FUNCTIONPUBLIC.h"
+	<fstream>
+
+1675869034 d:\sophmore\semester 1\oop\project library management\library management\include\readerslist.h
+	<iostream>
+	<vector>
+	"READER.h"
+	"STUDENT.h"
+	"TEACHER.h"
+	"FUNCTIONPUBLIC.h"
+	"ACCOUNTSLIST.h"
+	<sstream>
+	<string.h>
+
+1675869034 d:\sophmore\semester 1\oop\project library management\library management\include\reader.h
+	<iostream>
+	<cstring>
+	"DATE.h"
+	<vector>
+	<conio.h>
+
+1675869034 d:\sophmore\semester 1\oop\project library management\library management\include\date.h
+	<iostream>
+	<cstring>
+	<time.h>
+	<fstream>
+
+1675869034 d:\sophmore\semester 1\oop\project library management\library management\include\student.h
+	"READER.h"
+	<vector>
+
+1675869034 d:\sophmore\semester 1\oop\project library management\library management\include\teacher.h
+	"READER.h"
+
+1675869034 d:\sophmore\semester 1\oop\project library management\library management\include\functionpublic.h
+	<conio.h>
+	<iostream>
+	<string.h>
+
+1675869034 d:\sophmore\semester 1\oop\project library management\library management\include\accountslist.h
+	"ACCOUNT.h"
+	"ADMIN.h"
+	"USER.h"
+	<vector>
+
+1675869034 d:\sophmore\semester 1\oop\project library management\library management\include\account.h
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1675869034 d:\sophmore\semester 1\oop\project library management\library management\include\admin.h
+	"ACCOUNT.h"
+
+1675869034 d:\sophmore\semester 1\oop\project library management\library management\include\user.h
+	"ACCOUNT.h"
+
+1675869034 d:\sophmore\semester 1\oop\project library management\library management\include\bookslist.h
+	"BOOK.h"
+	"DATE.h"
+	<iostream>
+	<vector>
+	<string.h>
+	<sstream>
+	"BORROW_RETURNSLIST.h"
+
+1675869034 d:\sophmore\semester 1\oop\project library management\library management\include\book.h
+	<iostream>
+	"DATE.h"
+
+1675869034 source:d:\sophmore\semester 1\oop\project library management\library management\src\account.cpp
+	"ACCOUNT.h"
+
+1675869034 source:d:\sophmore\semester 1\oop\project library management\library management\src\accountslist.cpp
+	"ACCOUNTSLIST.h"
+
+1675869034 source:d:\sophmore\semester 1\oop\project library management\library management\src\admin.cpp
+	"ADMIN.h"
+
+1675869034 source:d:\sophmore\semester 1\oop\project library management\library management\src\book.cpp
+	"BOOK.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+	<fstream>
+
+1675869034 source:d:\sophmore\semester 1\oop\project library management\library management\src\bookslist.cpp
+	"BOOKSLIST.h"
+	"BOOK.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+	<fstream>
+
+1675869034 source:d:\sophmore\semester 1\oop\project library management\library management\src\borrow_return.cpp
+	"BORROW_RETURN.h"
+
+1675869034 source:d:\sophmore\semester 1\oop\project library management\library management\src\borrow_returnslist.cpp
+	"BORROW_RETURNSLIST.h"
+	<fstream>
+
+1675869034 source:d:\sophmore\semester 1\oop\project library management\library management\src\date.cpp
+	"DATE.h"
+	<iomanip>
+
+1675869034 source:d:\sophmore\semester 1\oop\project library management\library management\src\functionpublic.cpp
+	"FUNCTIONPUBLIC.h"
+
+1675869034 source:d:\sophmore\semester 1\oop\project library management\library management\src\reader.cpp
+	"READER.h"
+
+1675869034 source:d:\sophmore\semester 1\oop\project library management\library management\src\readerslist.cpp
+	"READERSLIST.h"
+	<iomanip>
+
+1675869034 source:d:\sophmore\semester 1\oop\project library management\library management\src\student.cpp
+	"STUDENT.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+
+1675869034 source:d:\sophmore\semester 1\oop\project library management\library management\src\teacher.cpp
+	"TEACHER.h"
+	"FUNCTIONPUBLIC.h"
+	<iomanip>
+
+1675869034 source:d:\sophmore\semester 1\oop\project library management\library management\src\user.cpp
+	"USER.h"
+
