@@ -1,9 +1,11 @@
-#pragma once
 #include <iostream>
 #include <cstring>
 #include "DATE.h"
 #include <vector>
 #include <conio.h>
+#ifndef READER_H
+#define READER_H
+
 using namespace std;
 
 class READER {
@@ -49,3 +51,5 @@ class READER {
         virtual void exportFileAReader(ofstream &) = 0;
         ~READER();
 };
+
+#endif
