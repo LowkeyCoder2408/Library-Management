@@ -1,8 +1,9 @@
-#pragma once
 #include <iostream>
 #include <cstring>
 #include <time.h>
 #include <fstream>
+#ifndef DATE_H
+#define DATE_H
 
 using namespace std;
 
@@ -36,3 +37,5 @@ class DATE {
 };
 
 DATE today();
+
+#endif
