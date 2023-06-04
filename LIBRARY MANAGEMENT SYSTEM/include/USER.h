@@ -1,9 +1,8 @@
+#include "ACCOUNT.h"
 #ifndef USER_H
 #define USER_H
-#include "ACCOUNT.h"
 
-class USER : public ACCOUNT
-{
+class USER : public ACCOUNT {
     private:
         string idUser;
     public:
@@ -21,4 +20,4 @@ class USER : public ACCOUNT
         ~USER();
 };
 
-#endif // USER_H
+#endif
