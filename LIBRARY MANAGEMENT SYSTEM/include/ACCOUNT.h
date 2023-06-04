@@ -1,12 +1,12 @@
-#ifndef ACCOUNT_H
-#define ACCOUNT_H
 #include <iostream>
 #include <fstream>
 #include <conio.h>
+#ifndef ACCOUNT_H
+#define ACCOUNT_H
+
 using namespace std;
 
-class ACCOUNT
-{
+class ACCOUNT {
     protected:
         string username;
         string password;
@@ -17,7 +17,7 @@ class ACCOUNT
         string getUsername();
         void setPassword(string);
         string getPassword();
-        virtual int getFormat() = 0; // 1 is admin and 2 is user
+        virtual int getFormat() = 0;
         virtual void input(string) = 0;
         virtual void readFileAAccount(ifstream &) = 0;
         virtual void exportFileAAccount(ofstream &) = 0;
@@ -27,4 +27,4 @@ class ACCOUNT
         ~ACCOUNT();
 };
 
-#endif // ACCOUNT_H
+#endif
