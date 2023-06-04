@@ -1,4 +1,3 @@
-#pragma once
 #include <iostream>
 #include <vector>
 #include "READER.h"
@@ -6,19 +5,20 @@
 #include "TEACHER.h"
 #include "FUNCTIONPUBLIC.h"
 #include "ACCOUNTSLIST.h"
-//#include "BORROW_RETURNSLIST.h"
 #include <sstream>
 #include <string.h>
+#ifndef READERSLIST_H
+#define READERSLIST_H
+
 using namespace std;
 
-class READERSLIST
-{
+class READERSLIST {
     private:
-        vector<READER*> readersList;
+        vector <READER*> readersList;
     public:
         READERSLIST();
-        void setReadersList(vector<READER*>);
-        vector<READER*> getReadersList();
+        void setReadersList(vector <READER*>);
+        vector <READER*> getReadersList();
         void input(ACCOUNTSLIST &);
         void output();
         void outputStudent();
@@ -38,3 +38,5 @@ class READERSLIST
         void exportFile();
         ~READERSLIST();
 };
+
+#endif
