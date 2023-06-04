@@ -1,4 +1,3 @@
-#pragma once
 #include "BOOK.h"
 #include "DATE.h"
 #include <iostream>
@@ -6,17 +5,18 @@
 #include <string.h>
 #include <sstream>
 #include "BORROW_RETURNSLIST.h"
+#ifndef BOOKSLIST_H
+#define BOOKSLIST_H
+
 using namespace std;
 
-
-class BOOKSLIST
-{
+class BOOKSLIST {
 	private:
-		vector<BOOK> booksList;
+		vector <BOOK> booksList;
 	public:
 		BOOKSLIST();
-		void setBooksList(vector<BOOK>);
-		vector<BOOK> getBooksList();
+		void setBooksList(vector <BOOK>);
+		vector <BOOK> getBooksList();
 		void input();
 		void output();
 		void outputSetw();
@@ -31,7 +31,8 @@ class BOOKSLIST
 		void fixRemain(string, int);
 		void fixTotal(string, int);
 		void readFile();
-        void exportFIle ();
+        	void exportFIle();
 		~BOOKSLIST();
 };
 
+#endif
