@@ -1,9 +1,8 @@
+#include "READER.h"
 #ifndef TEACHER_H
 #define TEACHER_H
-#include "READER.h"
 
-class TEACHER : public READER
-{
+class TEACHER : public READER {
     private:
         string facility;
     public:
@@ -20,4 +19,4 @@ class TEACHER : public READER
     ~TEACHER();
 };
 
-#endif // TEACHER_H
+#endif
