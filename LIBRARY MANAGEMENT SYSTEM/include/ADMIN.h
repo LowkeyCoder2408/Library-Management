@@ -1,9 +1,8 @@
+#include "ACCOUNT.h"
 #ifndef ADMIN_H
 #define ADMIN_H
-#include "ACCOUNT.h"
 
-class ADMIN : public ACCOUNT
-{
+class ADMIN : public ACCOUNT {
     private:
         string idAdmin;
     public:
@@ -21,4 +20,4 @@ class ADMIN : public ACCOUNT
         ~ADMIN();
 };
 
-#endif // ADMIN_H
+#endif
