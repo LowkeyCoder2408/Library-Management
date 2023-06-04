@@ -1,10 +1,9 @@
-#ifndef STUDENT_H
-#define STUDENT_H
 #include "READER.h"
 #include <vector>
+#ifndef STUDENT_H
+#define STUDENT_H
 
-class STUDENT : public READER
-{
+class STUDENT : public READER {
     private:
         string classOfStudent;
     public:
@@ -21,4 +20,4 @@ class STUDENT : public READER
     ~STUDENT();
 };
 
-#endif // STUDENT_H
+#endif
